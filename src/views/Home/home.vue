@@ -5,7 +5,7 @@
   const multipleText = ref<Element>()
   onMounted(() => {
     new Typed(multipleText.value!, {
-      strings: ['Frontend Developer', 'TikTok User', ''],
+      strings: ['Frontend Developer', 'TikTok User', 'Ai Developer'],
       typeSpeed: 100,
       backSpeed: 100,
       backDelay: 1000,
@@ -29,7 +29,7 @@
     <section class="container">
       <div class="container-content">
         <h3>Hello,It's Me</h3>
-        <h1>Call Me Phoenix</h1>
+        <h1>Call Me Lotus</h1>
         <h3>And I'm a <span ref="multipleText"></span></h3>
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing dlit . Accusantium,ab autem repellat
@@ -44,7 +44,7 @@
         <a href="#" class="btn">Download CV</a>
       </div>
       <div class="container-img">
-        <img src="../../assets/IMG_0268(20220719-211745).JPG" alt="" />
+        <img src="../../assets/avatar.jpg" alt="" />
       </div>
     </section>
   </div>
