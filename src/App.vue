@@ -5,7 +5,7 @@
 
 <template>
   <home></home>
-  <!-- <About></About> -->
+  <About></About>
 </template>
 
 <style scoped></style>

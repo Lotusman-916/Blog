@@ -1,10 +1,12 @@
 <script setup lang="ts">
   import AccordionButton from '../../components/accordion-button.vue'
+  import SkillCard from '@/components/skill-card.vue'
 </script>
 
 <template>
   <div class="about">
-    <accordion-button />
+    <!-- <accordion-button /> -->
+    <skill-card> </skill-card>
   </div>
 </template>
 

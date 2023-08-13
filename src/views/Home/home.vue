@@ -44,7 +44,7 @@
         <a href="#" class="btn">Download CV</a>
       </div>
       <div class="container-img">
-        <img src="../../assets/IMG_0268(20220719-211745)的副本2.JPG" alt="" />
+        <img src="../../assets/IMG_0268(20220719-211745).JPG" alt="" />
       </div>
     </section>
   </div>
